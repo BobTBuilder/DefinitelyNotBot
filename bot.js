@@ -25,7 +25,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 'rape') {
-    	message.channel.send('https://heavy-r.com');
+    	message.channel.send('https://goo.gl/images/br7sis');
   	}
 });
 
