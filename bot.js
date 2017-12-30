@@ -19,7 +19,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 'rape') {
-    	message.channel.send('NIGGERS!');
+    	message.channel.send('YouTube.com');
   	}
 });
 
