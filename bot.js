@@ -22,5 +22,10 @@ client.on('message', message => {
     	message.channel.send('NIGGERS!');
   	}
 });
+
+client.on('message', message => {
+    if (message.content === 'YT') {
+    	message.reply('YouTube.com');
+
 // THIS  MUST  BE  THIS  WAY
 client.login(process.env.BOT_TOKEN);
