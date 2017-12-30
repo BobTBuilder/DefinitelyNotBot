@@ -12,8 +12,8 @@ client.on('message', message => {
 });
 
 client.on('message', message => {
-    if (message.content === 'bing') {
-    	message.reply('BONG!');
+    if (message.content === 'nut') {
+    	message.reply('I"LL NUT IN YOUR GRANDMA!');
   	}
 });
 
