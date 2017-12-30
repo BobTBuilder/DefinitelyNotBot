@@ -18,6 +18,12 @@ client.on('message', message => {
 });
 
 client.on('message', message => {
+    if (message.content === 'kys') {
+    	message.reply('**STFU YOU DEPRESSED FUCK GO HANG LIKE THE BLACKS IN THE 1940s YOU"RE NOTHING IN THIS UNIVERSE BUT A SPECK OF DUST**');
+    }
+});
+
+client.on('message', message => {
     if (message.content === 'rape') {
     	message.channel.send('https://www.youtube.com');
   	}
